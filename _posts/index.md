@@ -1,6 +1,5 @@
 ---
-title: Home
 layout: default
+title: Julian!
 ---
-
-Some page content here...
+This is a test to see what happens
